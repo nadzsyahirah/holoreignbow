@@ -4,4 +4,7 @@ My 'experiment' project
 A personal website
 made using wordpress, custom domain and hosting
 
-View my <a href="https://holoreignbow.gq">personal site</a> :)
+Waiting for new domain in one month!
+/*
+View my <a href="https://holoreignbow.eu.org">personal site</a> :)
+*/
